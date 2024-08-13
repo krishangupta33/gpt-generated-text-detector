@@ -1,6 +1,6 @@
 # Detecting AI Generating Essays
 
-[Streamlit App Link](https://wfjazp2b4l7q6chstxhhxw.streamlit.app/)
+[Streamlit App Link](https://gpt-generated-text-detector.streamlit.app/)
 
 # Objective
 
